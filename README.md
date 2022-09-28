@@ -1,8 +1,8 @@
-# grid-layout
-### se trata de um simpes teste para praticar e absover melhor o conteúdo inicial relacionado a grid, ótimo para fixar conhecimento
+# PRATICANDO GRID
+## se trata de um simpes teste para praticar e absover melhor o conteúdo inicial relacionado a grid, ótimo para fixar conhecimento
+
 
 Vamos trocar as posições dos elementos na página sem modificar sua estrutura HTML. Utilize apenas as propriedades ***grid-row*** e ***grid-column***
-
 
 ### ***O objetivo final é praticamente um espelho. Ainda utilizando as 4 colunas e 4 linhas, os elementos devem ficar na seguinte ordem:***
 
